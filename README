@@ -1,13 +1,14 @@
 Review of paper and code on Superoptimizer
 
-I read the paper, a couple of time until I felt I
+I read the paper, a couple of times until I felt I
 understood it pretty well.
 
 I downloaded the code and installed make and then modified 
 the Makefile to use clang (which I have used before) and 
 was able to build using the Makefile using my shell: gitbash
+(on Windows 10)
 
-I followed the instructions, first tested some of the provided
+I followed the instructions, and first tested some of the provided
 sample functions like abs and bitblt, some output below:
 
 ===========================================

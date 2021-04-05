@@ -112,5 +112,9 @@ Counters = 985, total = 985
 Process time = 0.000 secs
 
 
-
+I concluded my experiment there, and would like to note that the search space 
+for 4 instructions is pretty fast but 5 is way too slow even on my very
+modern 5ghz cpu.  If I had more time I would like to see if the code
+could be made to run in paralell to make 5 or more instruction search space
+more usable.
 

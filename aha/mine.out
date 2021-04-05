@@ -1,0 +1,8 @@
+Searching for programs with 1 operations.
+
+Found a 1-operation program:
+   and   r1,ry,rx
+   Expr: (y & x)
+Found 1 solutions.
+Counters = 985, total = 985
+Process time = 0.000 secs
